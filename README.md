@@ -23,6 +23,18 @@ The focus is on making the reasoning traceable. What changed? What was observed?
 | 19 Oct 2026 | [Moving supply decisions to the device](journal/2026-10-19-field-revision.md) | Field records and verification of a subset of records |
 | 16 Oct 2026 | [Keeping the data trail intact](journal/2026-10-16-revision-questions.md) | Historical design questions |
 
+## Earlier development
+
+[From HX711 to ADS1256: learning what a mass reading means](journal/from-hx711-to-ads1256.md) is a retrospective written on 20 October 2026.
+
+| Period | Recorded stage | What it supports |
+| --- | --- | --- |
+| Early configuration | HX711 plant and drainage channels | The starting measurement path |
+| 19 Aug 2026 | L2 missing-sensor detection with a published zero | The need to distinguish failed readings from valid zeros |
+| 14 Sep 2026 | L1 ADS1256 software integration | A revised calibration boundary; not full measurement validation |
+| 18-20 Sep 2026 | Continuous operation with mixed ADC configurations | Separate assessment of collection, interventions and stability |
+| 22 Sep 2026 | L2 ADS1256 reference checks | A bounded result with further checks pending at that time |
+
 ## Research questions
 
 - How can device decisions, physical actions and stored events be traced to the same supply operation?
