@@ -38,11 +38,11 @@ The reviewed records do not establish a controlled HX711-ADS1256 comparison usin
 - Which changes come from the acquisition path, and which depend on loading, wiring, lighting or vibration?
 - Can another reader reproduce one analysis from an identified dataset and code version?
 
-The next useful public addition is a bounded validation case with data, analysis and limitations. This retrospective provides its context, not that validation itself.
+A follow-up [worked analysis](../examples/l2-reference-mass-20260922/README.md) reproduces calculations from six reported L2 readings. It provides a small reproducible example while leaving the acquisition and validation limits explicit.
 
 ## Record basis and access limits
 
-These are internal record descriptions, not links to publicly available datasets. The underlying logs, full reports and analysis outputs are not included in this documentation edition. Quantitative performance claims have intentionally been left out of this entry.
+These are internal record descriptions, not links to publicly available datasets. The underlying logs and full reports are not included in this documentation edition; the follow-up example publishes only a transcription and its analysis. Quantitative performance claims have intentionally been left out of this entry.
 
 | ID | Internal record | Used here for |
 | --- | --- | --- |
