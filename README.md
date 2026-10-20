@@ -6,7 +6,7 @@ This notebook follows the development of a lysimeter system for MSc research: th
 
 The focus is on making the reasoning traceable. What changed? What was observed? What remains uncertain?
 
-> **Documentation edition: 20 October 2026.** This repository contains research notes and documentation templates. Application code, firmware, experimental datasets and field photographs are not included. Historical results below are summaries of local records; preparing these pages did not involve new operational tests.
+> **Documentation edition: 20 October 2026.** This repository contains research notes, documentation templates and one offline worked analysis using six transcribed reported readings. Operational application code, firmware, full experimental datasets and field photographs are not included. Historical results below are summaries of local records; preparing this edition did not involve new operational tests.
 
 ## Start here
 
@@ -22,6 +22,10 @@ The focus is on making the reasoning traceable. What changed? What was observed?
 | 20 Oct 2026 | [Bilingual interfaces and chart export](journal/2026-10-20-bilingual-dashboard.md) | Revised candidate; deployment unconfirmed in the records reviewed |
 | 19 Oct 2026 | [Moving supply decisions to the device](journal/2026-10-19-field-revision.md) | Field records and verification of a subset of records |
 | 16 Oct 2026 | [Keeping the data trail intact](journal/2026-10-16-revision-questions.md) | Historical design questions |
+
+## Worked analysis
+
+[Reproducing a reference-mass check from six recorded readings](examples/l2-reference-mass-20260922/README.md) connects selected L2 record values with Python analysis, a generated summary and a figure. It reproduces the calculation, not sensor acquisition or a full calibration.
 
 ## Earlier development
 
