@@ -5,7 +5,8 @@
 ~~~text
 README.md                   Research notebook home
 ABOUT.md                    Context and reading guide
-journal/                    Three dated entries and an index
+journal/                    Three dated entries, a retrospective and an index
+examples/                   One offline analysis with transcribed readings and a figure
 methods/                    Measurement, quality, evidence and limitations
 revisions/                  Component-specific revision log
 templates/research-note.md   Template for future entries
@@ -14,7 +15,7 @@ docs/                       Architecture and publication guidance
 .gitignore / .gitattributes  File rules
 ~~~
 
-This is a documentation release. No operational source code, raw experimental data, photographs or old Git history is included.
+This edition contains documentation and one [worked analysis](../examples/l2-reference-mass-20260922/README.md). The example includes analysis code, six values transcribed from an internal measurement record, and generated results. No operational application source, raw telemetry, full experimental datasets, field photographs or old Git history is included.
 
 ## Future material
 
@@ -23,8 +24,9 @@ This is a documentation release. No operational source code, raw experimental da
 | Server and dependencies | Select the base and later overlays; remove private configuration and unnecessary operational tools | Not included |
 | Dashboard source | Choose explicitly between the applied r7a line and the r7b r2 candidate | Not included |
 | Firmware and shared modules | Confirm device roles, applied versions and secret-free source | Not included |
-| Offline tests | Match the chosen source and isolate network and device access; label synthetic fixtures | Not included |
-| Figures and photographs | Review rights, identifiers, provenance, captions and synthetic content | Not included |
+| Operational-source tests | Match the chosen source and isolate network and device access; label synthetic fixtures | Not included |
+| Worked-example figure | Generated from the six published reported values; scope and provenance documented | Included in the example |
+| Field photographs | Review rights, identifiers, provenance and captions | Not included |
 | Literature and citation metadata | Verify actual sources, source locations and publication permissions | Not included |
 
 Raw records, operational logs, backup originals, private institutional information, authorization documents and credentials are excluded by default. A complete research folder and its Git history must not be copied automatically.
