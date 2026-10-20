@@ -1,0 +1,31 @@
+{
+  "record_date": "2026-09-22",
+  "data_kind": "transcribed reported readings, not raw telemetry",
+  "data_sha256": "1587dfa7903410fd3b90bf46764f82ddd093aed7c233843b88e706e8a41f3c80",
+  "runtime": {
+    "python": "3.13.2",
+    "matplotlib": "3.10.3"
+  },
+  "results": [
+    {
+      "channel": "plant",
+      "n": 3,
+      "nominal_g": 500.0,
+      "mean_g": 498.8656666666667,
+      "mean_minus_nominal_g": -1.134333333333302,
+      "relative_mean_difference_percent": -0.22686666666666042,
+      "sample_sd_g": 2.0037101420448225,
+      "range_g": 3.7509999999999764
+    },
+    {
+      "channel": "drainage",
+      "n": 3,
+      "nominal_g": 100.0,
+      "mean_g": 99.42033333333333,
+      "mean_minus_nominal_g": -0.5796666666666681,
+      "relative_mean_difference_percent": -0.5796666666666681,
+      "sample_sd_g": 0.42144671470226425,
+      "range_g": 0.7939999999999969
+    }
+  ]
+}
