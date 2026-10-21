@@ -4,16 +4,14 @@ This description reflects the device-local supply transition recorded on 19 Octo
 
 ```mermaid
 flowchart LR
-    S["Sensors"] --> D["ESP32: measurement and local supply decisions"]
+    S["Sensors"] --> D["ESP32: measurement and local decisions"]
     D -->|Local execution| A["Water / nutrient supply"]
-    D -->|Samples, reported states and supply events| R["Server reception and storage"]
-    R -->|Stored records and query results| U["Dashboard"]
+    D -->|Samples, reported states and supply events| R["Server: reception and storage"]
+    R --> U["Dashboard"]
     R --> E["Export and backup"]
-    U -. Authorized management request .-> R
-    R -. Management path .-> D
 ```
 
-Solid arrows show measurement, execution, records and outputs; dashed arrows show authorized management paths. Automatic supply decisions belong to the ESP32 in this recorded structure. The diagram summarizes responsibilities rather than wiring, control parameters or a deployment specification.
+Arrows show measurement, local execution, reported states and stored outputs. Authorized management requests follow the separate path **Dashboard → Server → ESP32**. Automatic supply decisions belong to the ESP32 in this recorded structure. The diagram summarizes responsibilities rather than wiring, control parameters or a deployment specification.
 
 A reported supply event does not establish measured delivery for every pulse. An export or backup path does not establish completion of a particular archive. [Field revision notes](../journal/2026-10-19-field-revision.md) explain the evidence boundaries, and [design decisions](DESIGN_DECISIONS.md) connect measurement meaning with the acquisition path.
 
