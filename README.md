@@ -6,7 +6,22 @@ This notebook follows the development of a lysimeter system for MSc research: th
 
 The focus is on making the reasoning traceable. What changed? What was observed? What remains uncertain?
 
-> **Documentation edition: 20 October 2026.** This repository contains research notes, documentation templates and one offline worked analysis using six transcribed reported readings. Operational application code, firmware, full experimental datasets and field photographs are not included. Historical results below are summaries of local records; preparing this edition did not involve new operational tests.
+## Research purpose
+
+My MSc work develops a lysimeter measurement and monitoring system to support plant-water research. The engineering question explored here is how mass records can remain interpretable and comparable while acquisition hardware, calibration and field conditions change. Connecting measurements with supply events and intervention records is part of that work.
+
+## System overview
+
+```mermaid
+flowchart LR
+    S["Sensors"] --> D["ESP32: measurement and local decisions"]
+    D -->|Local execution| A["Water / nutrient supply"]
+    D -->|Samples, reported states and supply events| R["Server: reception and storage"]
+    R --> U["Dashboard"]
+    R --> E["Export and backup"]
+```
+
+Conceptual flow based on the device-local supply transition recorded on 19 October 2026. Supply reports and backup paths need their own verification. The [architecture guide](docs/ARCHITECTURE.md) explains responsibilities and management paths.
 
 ## Start here
 
@@ -14,6 +29,10 @@ The focus is on making the reasoning traceable. What changed? What was observed?
 2. [Research journal](journal/README.md): design questions, field revisions and follow-up work.
 3. [Methods notes](methods/README.md): measurement meaning, data quality and limitations.
 4. [Revision log](revisions/README.md): candidate development, review and field application.
+5. [Design decisions](docs/DESIGN_DECISIONS.md): separating valid zero from missing readings and defining the calibration boundary.
+6. [My contributions](docs/MY_CONTRIBUTIONS.md): my role, professor guidance and AI assistance.
+
+> **Documentation edition: 21 October 2026.** This repository contains research notes, documentation templates and one offline worked analysis using six transcribed reported readings. Operational application code, firmware, full experimental datasets and field photographs are not included. Historical results below are summaries of local records; preparing this edition did not involve new operational tests.
 
 ## Recent entries
 

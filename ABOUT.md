@@ -4,6 +4,12 @@ A lysimeter system needs more than connected sensors. Its records need to explai
 
 This notebook connects those engineering questions with MSc research. Entries follow a simple sequence: question, decision, evidence, limitation and next question.
 
+## Research purpose
+
+My MSc work develops a lysimeter measurement and monitoring system to support plant-water research. This notebook examines how mass records can be interpreted and compared while acquisition hardware, calibration and field conditions change. It connects documented engineering revisions with measurement context, including supply events, missing-data meaning and intervention records.
+
+The purpose is to make the basis for later analysis visible: what a value represents, which conditions changed, and which comparisons still need evidence. A mass decrease by itself does not establish evapotranspiration or a plant response. The [measurement notes](methods/measurement-and-quality.md) explain these distinctions, and two [design decisions](docs/DESIGN_DECISIONS.md) show how they shape the system's interpretation.
+
 ## My role and research support
 
 I am Chanmin Yeo, an MSc researcher at PGIA, University of Peradeniya. My professor established the overall research direction. I developed the detailed design and overall implementation of the lysimeter system, with assistance from AI tools. The system was not inherited from an earlier project.
