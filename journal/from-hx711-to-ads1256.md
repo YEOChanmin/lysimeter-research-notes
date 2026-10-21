@@ -1,10 +1,11 @@
 # From HX711 to ADS1256: learning what a mass reading means
 
 **Written:** 20 October 2026  
+**Attribution corrected:** 21 October 2026  
 **Development period covered:** the early HX711 configuration through 22 September 2026  
 **Status:** retrospective based on selected internal project records; no new experiments or statistical reanalysis were performed for this entry.
 
-This MSc project builds on an existing ESP32-based lysimeter system. Earlier undergraduate work and its reported results are separate from the subsequent MSc development described here.
+This notebook documents my MSc research on a lysimeter system, including the transition from HX711 to ADS1256. My professor established the overall research direction, and I developed the detailed design and overall implementation with AI assistance. The system was not inherited from the earlier undergraduate project.
 
 The early measurement path used HX711 channels for the plant platform and drainage container. Looking back, the useful story is how the questions changed: from obtaining a reading to understanding whether it represented a valid, comparable measurement.
 
@@ -50,6 +51,8 @@ These are internal record descriptions, not links to publicly available datasets
 | E2 | L1 ADS1256 integration record, 14 September 2026 | Integration date, calibration boundary and uncalibrated-value policy |
 | E3 | Weekend trial report, written 21 September 2026, covering 18-20 September | Abrupt steps, interventions, possible causes and separate stability assessment |
 | E4 | L2 laboratory update and checklist, 22 September 2026 | Reference checks, conversion handling and remaining checks |
-| E5 | Evidence and gap review, 8 October 2026 | Predecessor-work attribution and the missing controlled ADC comparison |
+| E5 | Evidence and gap review, 8 October 2026 | Research chronology and the missing controlled ADC comparison |
+
+**Correction, 21 October 2026:** The opening and E5 description have been corrected to remove an unsupported inference that the system was inherited from an earlier project. The researcher's account of the division of work is documented in [My contributions and research support](../docs/MY_CONTRIBUTIONS.md).
 
 [Measurement and quality](../methods/measurement-and-quality.md) · [Evidence and limitations](../methods/evidence-and-limitations.md) · [Journal](README.md) · [Home](../README.md)
