@@ -12,14 +12,7 @@ My MSc work develops a lysimeter measurement and monitoring system to support pl
 
 ## System overview
 
-```mermaid
-flowchart LR
-    S["Sensors"] --> D["ESP32: measurement and local decisions"]
-    D -->|Local execution| A["Water / nutrient supply"]
-    D -->|Samples, reported states and supply events| R["Server: reception and storage"]
-    R --> U["Dashboard"]
-    R --> E["Export and backup"]
-```
+![Conceptual flow from sensors through the ESP32 to local supply, server records, dashboard and export or backup](docs/images/system-overview.svg)
 
 Conceptual flow based on the device-local supply transition recorded on 19 October 2026. Supply reports and backup paths need their own verification. The [architecture guide](docs/ARCHITECTURE.md) explains responsibilities and management paths.
 
