@@ -2,14 +2,7 @@
 
 This description reflects the device-local supply transition recorded on 19 October 2026. Operational application source is not included; the separate offline analysis example is published. The complete system was not reverified for this documentation update.
 
-```mermaid
-flowchart LR
-    S["Sensors"] --> D["ESP32: measurement and local decisions"]
-    D -->|Local execution| A["Water / nutrient supply"]
-    D -->|Samples, reported states and supply events| R["Server: reception and storage"]
-    R --> U["Dashboard"]
-    R --> E["Export and backup"]
-```
+![Conceptual flow from sensors through the ESP32 to local supply, server records, dashboard and export or backup](images/system-overview.svg)
 
 Arrows show measurement, local execution, reported states and stored outputs. Authorized management requests follow the separate path **Dashboard → Server → ESP32**. Automatic supply decisions belong to the ESP32 in this recorded structure. The diagram summarizes responsibilities rather than wiring, control parameters or a deployment specification.
 
