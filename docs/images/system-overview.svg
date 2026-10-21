@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1220" height="390" viewBox="0 0 1220 390" role="img" aria-labelledby="diagram-title diagram-description">
+  <title id="diagram-title">Lysimeter system: conceptual flow</title>
+  <desc id="diagram-description">Sensors feed the ESP32, which measures and makes local supply decisions. Local execution leads to water or nutrient supply. Samples, reported states and supply events go to server reception and storage, then to the dashboard and export or backup. This is a conceptual flow, not confirmation of physical delivery or archive completion.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#475569"/>
+    </marker>
+  </defs>
+  <rect x="1" y="1" width="1218" height="388" rx="16" fill="#ffffff" stroke="#d8e0e5"/>
+  <g fill="none" stroke="#475569" stroke-width="2.2" stroke-linejoin="round" marker-end="url(#arrow)">
+    <path d="M 154 193 H 210"/>
+    <path d="M 440 173 H 500 V 78 H 700"/>
+    <path d="M 440 223 H 560 V 250 H 700"/>
+    <path d="M 910 235 H 965 V 195 H 1020"/>
+    <path d="M 910 265 H 965 V 305 H 1020"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle" fill="#172b3a">
+    <rect x="24" y="158" width="130" height="70" rx="10" fill="#f1f5f9" stroke="#94a3b8"/>
+    <text x="89" y="200" font-size="21">Sensors</text>
+    <rect x="210" y="138" width="230" height="110" rx="10" fill="#e7f2ed" stroke="#6a9b83"/>
+    <text x="325" y="168" font-size="22" font-weight="700">ESP32</text>
+    <text x="325" y="197" font-size="18">Measurement and</text>
+    <text x="325" y="224" font-size="18">local supply decisions</text>
+    <rect x="700" y="40" width="210" height="75" rx="10" fill="#f9f2df" stroke="#b79c58"/>
+    <text x="805" y="70" font-size="20">Water / nutrient</text>
+    <text x="805" y="97" font-size="20">supply</text>
+    <rect x="700" y="205" width="210" height="90" rx="10" fill="#eaf0f8" stroke="#7895b5"/>
+    <text x="805" y="235" font-size="22" font-weight="700">Server</text>
+    <text x="805" y="263" font-size="18">Reception and storage</text>
+    <rect x="1020" y="160" width="176" height="70" rx="10" fill="#f1f5f9" stroke="#94a3b8"/>
+    <text x="1108" y="202" font-size="20">Dashboard</text>
+    <rect x="1020" y="270" width="176" height="70" rx="10" fill="#f1f5f9" stroke="#94a3b8"/>
+    <text x="1108" y="300" font-size="20">Export and</text>
+    <text x="1108" y="326" font-size="20">backup</text>
+    <text x="600" y="61" font-size="18">Local execution</text>
+    <text x="557" y="303" font-size="17">Samples, reported states</text>
+    <text x="557" y="328" font-size="17">and supply events</text>
+    <text x="28" y="365" text-anchor="start" font-size="15" fill="#526473">Conceptual responsibilities recorded on 19 October 2026</text>
+  </g>
+</svg>
