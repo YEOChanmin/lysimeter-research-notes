@@ -9,8 +9,8 @@ flowchart LR
     D -->|Samples, reported states and supply events| R["Server reception and storage"]
     R -->|Stored records and query results| U["Dashboard"]
     R --> E["Export and backup"]
-    U -.->|Authorized management request| R
-    R -.->|Management path| D
+    U -. Authorized management request .-> R
+    R -. Management path .-> D
 ```
 
 Solid arrows show measurement, execution, records and outputs; dashed arrows show authorized management paths. Automatic supply decisions belong to the ESP32 in this recorded structure. The diagram summarizes responsibilities rather than wiring, control parameters or a deployment specification.
