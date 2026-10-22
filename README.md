@@ -25,7 +25,7 @@ Conceptual flow based on the device-local supply transition recorded on 19 Octob
 5. [Design decisions](docs/DESIGN_DECISIONS.md): separating valid zero from missing readings and defining the calibration boundary.
 6. [My contributions](docs/MY_CONTRIBUTIONS.md): my role, professor guidance and AI assistance.
 
-> **Documentation edition: 22 October 2026.** This repository contains research notes, documentation templates and one offline worked analysis using six transcribed reported readings. Operational application code, firmware, full experimental datasets and field photographs are not included. Historical results below are summaries of local records; preparing this edition did not involve new operational tests.
+> **Documentation edition: 22 October 2026.** This repository contains research notes, documentation templates, an offline worked analysis using six transcribed reported readings, and a separate synthetic teaching example. Operational application code, firmware, full experimental datasets and field photographs are not included. Historical results below are summaries of local records; preparing this edition did not involve new operational tests.
 
 ## Recent entries
 
@@ -40,6 +40,8 @@ Conceptual flow based on the device-local supply transition recorded on 19 Octob
 ## Worked analysis
 
 [Reproducing a reference-mass check from six recorded readings](examples/l2-reference-mass-20260922/README.md) connects selected L2 record values with Python analysis, a generated summary and a figure. It reproduces the calculation, not sensor acquisition or a full calibration.
+
+[Valid zero, missing and invalid readings](examples/valid-zero-missing-invalid/README.md) is a separate offline teaching example with explicitly synthetic inputs, a standard-library Python script and a generated figure. It demonstrates data meaning rather than sensor accuracy or operational behaviour.
 
 ## Earlier development
 

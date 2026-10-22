@@ -76,3 +76,6 @@ __pycache__/
 *.map
 .DS_Store
 Thumbs.db
+
+# Explicitly selected synthetic teaching input; other CSV files remain excluded.
+!/examples/valid-zero-missing-invalid/inputs.csv

@@ -5,8 +5,8 @@
 ~~~text
 README.md                   Research notebook home
 ABOUT.md                    Context and reading guide
-journal/                    Three dated entries, a retrospective and an index
-examples/                   One offline analysis with transcribed readings and a figure
+journal/                    Three dated entries, a retrospective, an interpretation note and an index
+examples/                   A recorded-reading analysis and a separate synthetic teaching example
 methods/                    Measurement, quality, evidence and limitations
 revisions/                  Component-specific revision log
 templates/research-note.md   Template for future entries
@@ -15,7 +15,7 @@ docs/                       Architecture and publication guidance
 .gitignore / .gitattributes  File rules
 ~~~
 
-This edition contains documentation and one [worked analysis](../examples/l2-reference-mass-20260922/README.md). The example includes analysis code, six values transcribed from an internal measurement record, and generated results. No operational application source, raw telemetry, full experimental datasets, field photographs or old Git history is included.
+This edition contains documentation and two offline examples. The [reference-mass analysis](../examples/l2-reference-mass-20260922/README.md) includes analysis code, six values transcribed from an internal measurement record, and generated results. The separate [valid-zero, missing and invalid example](../examples/valid-zero-missing-invalid/README.md) uses entirely invented inputs to demonstrate data meaning. No operational application source, raw telemetry, full experimental datasets, field photographs or old Git history is included.
 
 ## Future material
 

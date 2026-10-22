@@ -21,7 +21,7 @@ I am Chanmin Yeo, an MSc researcher at PGIA, University of Peradeniya. My profes
 - **Journal entries:** field observations, failures, revisions and open questions.
 - **Methods notes:** measurement meaning, calibration, data quality and exclusion intervals.
 - **Revision records:** the relationship between candidates, reviews and applied changes.
-- **Worked analysis:** six transcribed reported readings with executable calculation, a figure and explicit limits.
+- **Worked examples:** six transcribed reported readings with executable calculation and a figure, plus a separate synthetic teaching example of valid zero, missing and invalid readings; each has explicit limits.
 - **Reproducibility documentation:** the requirements for future operational-source and test releases.
 
 Literature notes may be added later. Each should identify the paper, its claims, methods, results and limitations, the relevant source locations, and questions for this system. No literature review or publication list is claimed in this edition.

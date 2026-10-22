@@ -1,0 +1,61 @@
+{
+  "synthetic": true,
+  "unit": "arbitrary demonstration units",
+  "sample_count": 6,
+  "status_counts": {
+    "valid": 3,
+    "missing": 1,
+    "invalid": 2
+  },
+  "valid_zero_count": 1,
+  "valid_only": {
+    "count": 3,
+    "sum": 6.0,
+    "mean": 2.0
+  },
+  "deliberately_incorrect_zero_fill": {
+    "description": "Force every non-valid row to zero, then divide by all rows; not a recommended treatment.",
+    "count": 6,
+    "sum": 6.0,
+    "mean": 1.0
+  },
+  "samples": [
+    {
+      "sample_id": "S1",
+      "retained_value": 0.0,
+      "status": "valid",
+      "included_in_valid_mean": true
+    },
+    {
+      "sample_id": "S2",
+      "retained_value": 2.0,
+      "status": "valid",
+      "included_in_valid_mean": true
+    },
+    {
+      "sample_id": "S3",
+      "retained_value": null,
+      "status": "missing",
+      "included_in_valid_mean": false
+    },
+    {
+      "sample_id": "S4",
+      "retained_value": 0.0,
+      "status": "invalid",
+      "included_in_valid_mean": false
+    },
+    {
+      "sample_id": "S5",
+      "retained_value": 4.0,
+      "status": "valid",
+      "included_in_valid_mean": true
+    },
+    {
+      "sample_id": "S6",
+      "retained_value": 999.0,
+      "status": "invalid",
+      "included_in_valid_mean": false
+    }
+  ],
+  "limitation": "Synthetic arithmetic and display demonstration; no sensor or operational-system validation."
+}

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="460" viewBox="0 0 960 460" role="img" aria-labelledby="title desc">
+<title id="title">Synthetic values: valid zero, missing and invalid</title>
+<desc id="desc">Only valid observations appear on the value axis. Missing and invalid observations leave gaps. A separate status rail preserves all sample positions.</desc>
+<rect width="960" height="460" fill="#ffffff"/>
+<g font-family="Arial, sans-serif" font-size="14" fill="#172033">
+<text x="36" y="35" font-size="24" font-weight="bold">A value and its quality state answer different questions</text>
+<text x="36" y="62">All inputs are synthetic. No device readings or experimental results are shown.</text>
+<text x="28" y="200" transform="rotate(-90 28 200)">Value (arbitrary units)</text>
+<line x1="100" y1="290.00" x2="915" y2="290.00" stroke="#e2e8f0"/>
+<text x="85" y="295.00" text-anchor="end">0</text>
+<line x1="100" y1="242.50" x2="915" y2="242.50" stroke="#e2e8f0"/>
+<text x="85" y="247.50" text-anchor="end">1</text>
+<line x1="100" y1="195.00" x2="915" y2="195.00" stroke="#e2e8f0"/>
+<text x="85" y="200.00" text-anchor="end">2</text>
+<line x1="100" y1="147.50" x2="915" y2="147.50" stroke="#e2e8f0"/>
+<text x="85" y="152.50" text-anchor="end">3</text>
+<line x1="100" y1="100.00" x2="915" y2="100.00" stroke="#e2e8f0"/>
+<text x="85" y="105.00" text-anchor="end">4</text>
+<path d="M 100 100 V 290 H 915" fill="none" stroke="#64748b"/>
+<text x="100.00" y="320" text-anchor="middle">S1</text>
+<circle cx="100.00" cy="290.00" r="6" fill="#166534"/>
+<rect x="94.00" y="357" width="12" height="12" rx="2" fill="#166534"/>
+<text x="100.00" y="391" text-anchor="middle" fill="#166534">Valid</text>
+<text x="263.00" y="320" text-anchor="middle">S2</text>
+<line x1="100.00" y1="290.00" x2="263.00" y2="195.00" stroke="#166534" stroke-width="2"/>
+<circle cx="263.00" cy="195.00" r="6" fill="#166534"/>
+<rect x="257.00" y="357" width="12" height="12" rx="2" fill="#166534"/>
+<text x="263.00" y="391" text-anchor="middle" fill="#166534">Valid</text>
+<text x="426.00" y="320" text-anchor="middle">S3</text>
+<rect x="420.00" y="357" width="12" height="12" rx="2" fill="#1d4ed8"/>
+<text x="426.00" y="391" text-anchor="middle" fill="#1d4ed8">Missing</text>
+<text x="589.00" y="320" text-anchor="middle">S4</text>
+<rect x="583.00" y="357" width="12" height="12" rx="2" fill="#b45309"/>
+<text x="589.00" y="391" text-anchor="middle" fill="#b45309">Invalid</text>
+<text x="752.00" y="320" text-anchor="middle">S5</text>
+<circle cx="752.00" cy="100.00" r="6" fill="#166534"/>
+<rect x="746.00" y="357" width="12" height="12" rx="2" fill="#166534"/>
+<text x="752.00" y="391" text-anchor="middle" fill="#166534">Valid</text>
+<text x="915.00" y="320" text-anchor="middle">S6</text>
+<rect x="909.00" y="357" width="12" height="12" rx="2" fill="#b45309"/>
+<text x="915.00" y="391" text-anchor="middle" fill="#b45309">Invalid</text>
+<text x="36" y="345" font-weight="bold">Quality state</text>
+<text x="36" y="434">Only adjacent valid samples are joined. Gaps are not plotted as zero.</text>
+</g></svg>

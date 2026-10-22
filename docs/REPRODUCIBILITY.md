@@ -1,6 +1,6 @@
 # Reproducibility Preparation
 
-This edition includes one [offline worked analysis](../examples/l2-reference-mass-20260922/README.md). It publishes six transcribed reported readings, a Python script, plotting requirements and generated results. Its data provenance, tested runtime, execution instructions and limitations are documented with the example. It does not reproduce device acquisition.
+This edition includes two offline examples. The [reference-mass analysis](../examples/l2-reference-mass-20260922/README.md) publishes six transcribed reported readings, a Python script, plotting requirements and generated results. The separate [valid-zero, missing and invalid example](../examples/valid-zero-missing-invalid/README.md) uses invented CSV inputs and a standard-library Python script. Each example documents its data provenance, tested runtime, execution instructions and limitations. Neither reproduces device acquisition.
 
 Operational application source, a full dependency lockfile, server-start commands and full-system reproduction are not included. Those instructions will be documented after verification for a selected operational-source release.
 

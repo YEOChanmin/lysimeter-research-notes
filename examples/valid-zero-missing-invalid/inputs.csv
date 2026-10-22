@@ -1,0 +1,7 @@
+sample_id,value,status,synthetic
+S1,0,valid,true
+S2,2,valid,true
+S3,,missing,true
+S4,0,invalid,true
+S5,4,valid,true
+S6,999,invalid,true
