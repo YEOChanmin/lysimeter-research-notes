@@ -8,7 +8,16 @@ Use this checklist when adding source, data, figures or a new documentation edit
 - [ ] Select individual files instead of copying the research folder or its Git directory.
 - [ ] Reconcile working files, sealed candidates and deployed versions.
 - [ ] Verify dependencies and reproduction instructions for any executable source.
-- [ ] Exclude generated output, private tools and obsolete variants.
+- [ ] Exclude incidental generated output, private tools and obsolete variants. Include generated analysis or teaching outputs only when explicitly selected and their provenance is documented.
+
+## Research-note and teaching updates
+
+- [ ] Link factual statements to the public records or verified papers that support them; keep observations, device reports, interpretations and proposals distinct.
+- [ ] Distinguish the event date, drafting date and actual publication date. A target publication date does not establish that an event or publication has occurred.
+- [ ] Label synthetic inputs, calculations and figures clearly and state what the example does and does not demonstrate.
+- [ ] Record the question, evidence, interpretation, limitations and next check. Describe researcher, supervisor and AI contributions accurately.
+
+For the planned documentation and teaching updates, use existing public records or explicitly synthetic material. New measured-data publication remains on hold; future release of experimental records requires its own scope and publication review.
 
 ## Private information
 
