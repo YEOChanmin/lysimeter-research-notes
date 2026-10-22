@@ -50,7 +50,7 @@ Only adjacent valid observations are joined in the figure. Missing and invalid r
 
 ## Checks and limits
 
-The local run produced the expected counts and means. Two consecutive runs produced identical JSON and SVG bytes. Focused checks rejected malformed status/value combinations, unknown states, non-finite values, duplicate sample identifiers, missing columns and rows not explicitly labelled synthetic. The output-directory guard was also checked. The generated SVG was rendered locally and visually checked; its appearance on GitHub has not been checked.
+The local run produced the expected counts and means. Two consecutive runs produced identical JSON and SVG bytes. Focused checks rejected malformed status/value combinations, unknown states, non-finite values, duplicate sample identifiers, missing columns and rows not explicitly labelled synthetic. The output-directory guard was also checked. The generated SVG was rendered locally and visually checked. Its published appearance on GitHub was also visually checked on 22 October 2026.
 
 This example demonstrates arithmetic and representation for chosen inputs. It does not validate acquisition hardware, operational software, imputation methods, field reliability or sensor accuracy. A failed database query is also distinct from a missing observation, but query handling is outside this example.
 
