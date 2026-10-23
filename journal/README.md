@@ -12,6 +12,7 @@ Entries connect design intentions with field evidence. Dates in the field-entry 
 
 | Written / published | Entry | Scope |
 | --- | --- | --- |
+| 23 Oct 2026 / 23 Oct 2026 | [From a sensor-ready flag to usable research data](2026-10-23-from-sensor-ready-to-research-data.md) | Saved-record interpretation and data-selection questions; no new measurements |
 | 21 Oct 2026 / 22 Oct 2026 | [From a supply event to evidence of delivery](from-supply-event-to-evidence-of-delivery.md) | Interpretation of existing public records; no new measurements |
 
 ## Design revision notes

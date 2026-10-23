@@ -37,6 +37,10 @@ Conceptual flow based on the device-local supply transition recorded on 19 Octob
 
 [From a supply event to evidence of delivery](journal/from-supply-event-to-evidence-of-delivery.md), written on 21 October and published on 22 October 2026, explains the different claims supported by reports, field observations, accounted volume and direct measurement. It adds no new measurements.
 
+## From sensor readiness to research data
+
+[From a sensor-ready flag to usable research data](journal/2026-10-23-from-sensor-ready-to-research-data.md) was published on 23 October 2026. It separates firmware application, initialization, receipt, measurement checks and research-data selection. It releases no new measurements.
+
 ## Reference-pot design revision
 
 [From three evaporation references to a three-role reference setup](journal/2026-10-23-three-role-reference-setup.md) was published on 23 October 2026. It explains the revised reference roles and their limitations without releasing new measurements.
