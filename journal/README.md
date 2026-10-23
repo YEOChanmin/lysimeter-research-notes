@@ -1,6 +1,6 @@
 # Research journal
 
-Entries connect design intentions with field evidence. Dates in the field-entry table refer to the events or records discussed. Interpretation notes list writing and publication dates separately; this index was updated on 22 October 2026.
+Entries connect design intentions with field evidence. Dates in the field-entry table refer to the events or records discussed. Interpretation notes list writing and publication dates separately; this index was updated on 23 October 2026.
 
 | Date | Entry | Reading note |
 | --- | --- | --- |
@@ -13,6 +13,12 @@ Entries connect design intentions with field evidence. Dates in the field-entry 
 | Written / published | Entry | Scope |
 | --- | --- | --- |
 | 21 Oct 2026 / 22 Oct 2026 | [From a supply event to evidence of delivery](from-supply-event-to-evidence-of-delivery.md) | Interpretation of existing public records; no new measurements |
+
+## Design revision notes
+
+| Written / published | Entry | Scope |
+| --- | --- | --- |
+| 23 Oct 2026 / 23 Oct 2026 | [Three evaporation references to a three-role setup](2026-10-23-three-role-reference-setup.md) | Design revision; field validation unconfirmed |
 
 ## Retrospectives
 
