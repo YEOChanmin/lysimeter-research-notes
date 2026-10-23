@@ -37,6 +37,10 @@ Conceptual flow based on the device-local supply transition recorded on 19 Octob
 
 [From a supply event to evidence of delivery](journal/from-supply-event-to-evidence-of-delivery.md), written on 21 October and published on 22 October 2026, explains the different claims supported by reports, field observations, accounted volume and direct measurement. It adds no new measurements.
 
+## Interpreting cloud and local views
+
+[Keeping cloud and local research views interpretable](journal/2026-10-23-cloud-and-local-research-views.md) was published on 23 October 2026. It examines source, time, period selection, aggregation and missingness, with a clearly fictional illustration. It releases no new experimental measurements.
+
 ## From sensor readiness to research data
 
 [From a sensor-ready flag to usable research data](journal/2026-10-23-from-sensor-ready-to-research-data.md) was published on 23 October 2026. It separates firmware application, initialization, receipt, measurement checks and research-data selection. It releases no new measurements.

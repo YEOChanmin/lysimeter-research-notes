@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="864pt" height="460.8pt" viewBox="0 0 864 460.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <title>Fictional cloud and local observation-time context</title>
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Fictional cloud and local observation-time context</dc:title>
+    <dc:description>Entirely fictional times. Same fictional observation, different receipt, copy and display times. Not an application screenshot or experimental data.</dc:description>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib; synthetic illustration for Lysimeter Research Notes</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 460.8 
+L 864 460.8 
+L 864 0 
+L 0 0 
+z
+" style="fill: #f6f8fb"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 41.76 86.4 
+L 410.4 86.4 
+Q 420.48 86.4 420.48 96.48 
+L 420.48 338.4 
+Q 420.48 348.48 410.4 348.48 
+L 41.76 348.48 
+Q 31.68 348.48 31.68 338.4 
+L 31.68 96.48 
+Q 31.68 86.4 41.76 86.4 
+z
+" clip-path="url(#p55865fab80)" style="fill: #ffffff; stroke: #cbd5e1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 48.96 185.76 
+L 403.2 185.76 
+Q 408.96 185.76 408.96 191.52 
+L 408.96 220.32 
+Q 408.96 226.08 403.2 226.08 
+L 48.96 226.08 
+Q 43.2 226.08 43.2 220.32 
+L 43.2 191.52 
+Q 43.2 185.76 48.96 185.76 
+z
+" clip-path="url(#p55865fab80)" style="fill: #e6f5f1"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 453.6 86.4 
+L 822.24 86.4 
+Q 832.32 86.4 832.32 96.48 
+L 832.32 338.4 
+Q 832.32 348.48 822.24 348.48 
+L 453.6 348.48 
+Q 443.52 348.48 443.52 338.4 
+L 443.52 96.48 
+Q 443.52 86.4 453.6 86.4 
+z
+" clip-path="url(#p55865fab80)" style="fill: #ffffff; stroke: #cbd5e1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 460.8 185.76 
+L 815.04 185.76 
+Q 820.8 185.76 820.8 191.52 
+L 820.8 220.32 
+Q 820.8 226.08 815.04 226.08 
+L 460.8 226.08 
+Q 455.04 226.08 455.04 220.32 
+L 455.04 191.52 
+Q 455.04 185.76 460.8 185.76 
+z
+" clip-path="url(#p55865fab80)" style="fill: #e6f5f1"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 48.96 174.24 
+L 403.2 174.24 
+" clip-path="url(#p55865fab80)" style="fill: none; stroke: #e2e8f0; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 460.8 174.24 
+L 815.04 174.24 
+" clip-path="url(#p55865fab80)" style="fill: none; stroke: #e2e8f0; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 23px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #26374a" x="31.68" y="35.476406" transform="rotate(-0 31.68 35.476406)">One observation. Different kinds of time.</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #526174" x="31.68" y="62.318438" transform="rotate(-0 31.68 62.318438)">FICTIONAL TIMES  /  CONCEPTUAL ILLUSTRATION  /  NOT AN APPLICATION SCREENSHOT</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #26374a" x="48.96" y="112.9575" transform="rotate(-0 48.96 112.9575)">Cloud view</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #526174" x="48.96" y="137.998125" transform="rotate(-0 48.96 137.998125)">Fictional series A / row 01</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #526174" x="48.96" y="157.438125" transform="rotate(-0 48.96 157.438125)">Selected interval: 08:00-09:00 UTC</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #146052" x="51.84" y="204.277969" transform="rotate(-0 51.84 204.277969)">Observation time</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #146052" x="396" y="204.277969" transform="rotate(-0 396 204.277969)">08:10 UTC</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #26374a" x="51.84" y="252.478125" transform="rotate(-0 51.84 252.478125)">Received by server</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #26374a" x="396" y="252.478125" transform="rotate(-0 396 252.478125)">08:12 UTC</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #26374a" x="51.84" y="298.558125" transform="rotate(-0 51.84 298.558125)">Screen refreshed</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #26374a" x="396" y="298.558125" transform="rotate(-0 396 298.558125)">08:30 UTC</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #26374a" x="460.8" y="112.9575" transform="rotate(-0 460.8 112.9575)">Local view of a copied record</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #526174" x="460.8" y="137.998125" transform="rotate(-0 460.8 137.998125)">Fictional series A / row 01</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #526174" x="460.8" y="157.438125" transform="rotate(-0 460.8 157.438125)">Selected interval: 08:00-09:00 UTC</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #146052" x="463.68" y="204.277969" transform="rotate(-0 463.68 204.277969)">Observation time</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #146052" x="807.84" y="204.277969" transform="rotate(-0 807.84 204.277969)">08:10 UTC</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #26374a" x="463.68" y="252.478125" transform="rotate(-0 463.68 252.478125)">Copied into local archive</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #26374a" x="807.84" y="252.478125" transform="rotate(-0 807.84 252.478125)">08:20 UTC</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #26374a" x="463.68" y="298.558125" transform="rotate(-0 463.68 298.558125)">Screen loaded</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #26374a" x="807.84" y="298.558125" transform="rotate(-0 807.84 298.558125)">08:32 UTC</text>
+   </g>
+   <g id="text_21">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #146052" x="31.68" y="383.6775" transform="rotate(-0 31.68 383.6775)">The observation stays at 08:10 UTC in both views.</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #26374a" x="31.68" y="408.757969" transform="rotate(-0 31.68 408.757969)">08:30 and 08:32 describe view updates; they are not new observations.</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #526174" x="31.68" y="436.038281" transform="rotate(-0 31.68 436.038281)">These are explanatory labels, not a claim that the current applications expose every field.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p55865fab80">
+   <rect x="0" y="0" width="864" height="460.8"/>
+  </clipPath>
+ </defs>
+</svg>
