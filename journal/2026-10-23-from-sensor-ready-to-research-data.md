@@ -39,6 +39,10 @@ The [three-role reference setup](2026-10-23-three-role-reference-setup.md) adds 
 
 Missing, invalid and excluded observations also need distinct meanings. I do not want an absent or excluded reading to become a measured zero simply because a chart or calculation expects a number. The existing [synthetic example](../examples/valid-zero-missing-invalid/README.md) illustrates the zero/missing/invalid distinction; it does not validate this hardware.
 
+## Follow-up: a blank selection record
+
+Added on 24 October 2026: the [change-and-exclusion ledger](../templates/change-and-exclusion-ledger.md) turns these questions into a blank record with separate observation state, analysis selection, reasons and correction links. It supplies no completed exclusions and does not establish measurement eligibility.
+
 ## What I will document next
 
 For an interval I intend to analyse, I want to be able to answer:

@@ -12,6 +12,10 @@
 | Backup | 19 Oct D-19 | Link supply events and ledger records | Subset passed; distinct from a full day |
 | Dashboard | 20 Oct r7b r2 | Bilingual display, PNG export and alert grouping | Author-reported fixes and tests; independent confirmation and deployment unconfirmed |
 
+## Tracking the evidence for a release
+
+[From a passing review to a traceable release](../journal/2026-10-24-from-review-to-traceable-release.md), written on 24 October 2026, uses the component-label distinction in this historical log as a case study. It adds an illustrative trace from candidate identity to follow-up evidence; it does not update the deployment status recorded above.
+
 ## Follow the reasoning
 
 [Design questions](../journal/2026-10-16-revision-questions.md) → [Field revision](../journal/2026-10-19-field-revision.md) → [Follow-up interface candidate](../journal/2026-10-20-bilingual-dashboard.md)

@@ -1,6 +1,6 @@
 # Research journal
 
-Entries connect design intentions with field evidence. Dates in the field-entry table refer to the events or records discussed. Interpretation notes list writing and publication dates separately; this index was updated on 23 October 2026.
+Entries connect design intentions with field evidence. Dates in the field-entry table refer to the events or records discussed. Interpretation notes list writing and publication dates separately; this index was updated on 24 October 2026.
 
 | Date | Entry | Reading note |
 | --- | --- | --- |
@@ -21,6 +21,15 @@ Entries connect design intentions with field evidence. Dates in the field-entry 
 | Written / published | Entry | Scope |
 | --- | --- | --- |
 | 23 Oct 2026 / 23 Oct 2026 | [Three evaporation references to a three-role setup](2026-10-23-three-role-reference-setup.md) | Design revision; field validation unconfirmed |
+
+## Research records and software evidence
+
+| Written | Entry | Scope |
+| --- | --- | --- |
+| 24 Oct 2026 | [What a recovered backup actually proves](2026-10-24-what-a-recovered-backup-proves.md) | Backup evidence boundaries; hypothetical inclusion example, no new operation |
+| 24 Oct 2026 | [From a passing review to a traceable release](2026-10-24-from-review-to-traceable-release.md) | Historical revision-label case and illustrative trace; no new release |
+
+The [blank change-and-exclusion ledger](../templates/change-and-exclusion-ledger.md) supports the data-selection questions raised in these notes.
 
 ## Retrospectives
 

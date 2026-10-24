@@ -79,3 +79,6 @@ Thumbs.db
 
 # Explicitly selected synthetic teaching input; other CSV files remain excluded.
 !/examples/valid-zero-missing-invalid/inputs.csv
+
+# Blank documentation ledger only; populated records need separate review.
+!/templates/change-and-exclusion-ledger.csv

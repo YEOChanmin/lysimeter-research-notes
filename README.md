@@ -25,17 +25,25 @@ Conceptual flow based on the device-local supply transition recorded on 19 Octob
 5. [Design decisions](docs/DESIGN_DECISIONS.md): separating valid zero from missing readings and defining the calibration boundary.
 6. [My contributions](docs/MY_CONTRIBUTIONS.md): my role, professor guidance and AI assistance.
 
-> **Documentation edition: 23 October 2026.** This repository contains research notes, documentation templates, an offline worked analysis using six transcribed reported readings, and a separate synthetic teaching example. Operational application code, firmware, full experimental datasets and field photographs are not included. Historical results below are summaries of local records; preparing this edition did not involve new operational tests.
+> **Documentation edition: 24 October 2026.** This repository contains research notes, documentation templates, an offline worked analysis using six transcribed reported readings, and a separate synthetic teaching example. Operational application code, firmware, full experimental datasets and field photographs are not included. Historical results below are summaries of local records; preparing this edition did not involve new operational tests.
 
 ## Recent entries
 
 | Date | Entry | Evidence status |
 | --- | --- | --- |
+| 24 Oct 2026 | [What a recovered backup actually proves](journal/2026-10-24-what-a-recovered-backup-proves.md) | Process interpretation; no new backup or restoration run |
+| 24 Oct 2026 | [From a passing review to a traceable release](journal/2026-10-24-from-review-to-traceable-release.md) | Historical component example and illustrative trace; no new release |
 | 20 Oct 2026 | [Bilingual interfaces and chart export](journal/2026-10-20-bilingual-dashboard.md) | Revised candidate; deployment unconfirmed in the records reviewed |
 | 19 Oct 2026 | [Moving supply decisions to the device](journal/2026-10-19-field-revision.md) | Field records and verification of a subset of records |
 | 16 Oct 2026 | [Keeping the data trail intact](journal/2026-10-16-revision-questions.md) | Historical design questions |
 
 [From a supply event to evidence of delivery](journal/from-supply-event-to-evidence-of-delivery.md), written on 21 October and published on 22 October 2026, explains the different claims supported by reports, field observations, accounted volume and direct measurement. It adds no new measurements.
+
+## Research records and release evidence
+
+[What a recovered backup actually proves](journal/2026-10-24-what-a-recovered-backup-proves.md) separates file presence, readability, byte comparison, source coverage and isolated restoration. [From a passing review to a traceable release](journal/2026-10-24-from-review-to-traceable-release.md) uses the historical component-specific revision records to explain how review, build and application evidence connect. Both are process notes written on 24 October 2026; they report no new operational tests or measurements.
+
+The [change-and-exclusion ledger](templates/change-and-exclusion-ledger.md) adds a blank, header-only CSV and a guide for documenting analysis selections while retaining original observations. It contains no completed decisions or field data.
 
 ## Interpreting cloud and local views
 
@@ -83,7 +91,7 @@ These are research directions. This notebook does not establish improvements in 
 | [Architecture](docs/ARCHITECTURE.md) | Boundaries between sensing, device decisions, storage and display |
 | [Measurement and quality](methods/measurement-and-quality.md) | Mass, dose accounting, temperature and uncalibrated TDS indices |
 | [Evidence and limitations](methods/evidence-and-limitations.md) | What different forms of verification support |
-| [Repository contents](docs/REPOSITORY_CONTENTS.md) | Included documentation and future source selection |
+| [Repository contents](docs/REPOSITORY_CONTENTS.md) | Current reading guide, examples, templates and publication boundaries |
 | [Reproducibility](docs/REPRODUCIBILITY.md) | Requirements before publishing executable code |
 | [Publication checklist](docs/PUBLICATION_CHECKLIST.md) | Checks for future additions |
 
