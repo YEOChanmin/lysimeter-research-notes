@@ -1,6 +1,6 @@
 # Research journal
 
-Entries connect design intentions with field evidence. Dates in the field-entry table refer to the events or records discussed. Interpretation notes list writing and publication dates separately; this index was updated on 24 October 2026.
+Entries connect design intentions with field evidence. Dates in the field-entry table refer to the events or records discussed. Interpretation notes list writing and publication dates separately; this index was updated on 28 October 2026.
 
 | Date | Entry | Reading note |
 | --- | --- | --- |
@@ -15,6 +15,12 @@ Entries connect design intentions with field evidence. Dates in the field-entry 
 | 23 Oct 2026 / 23 Oct 2026 | [Keeping cloud and local research views interpretable](2026-10-23-cloud-and-local-research-views.md) | Source, time, aggregation and missingness; fictional illustration, no new experimental measurements |
 | 23 Oct 2026 / 23 Oct 2026 | [From a sensor-ready flag to usable research data](2026-10-23-from-sensor-ready-to-research-data.md) | Saved-record interpretation and data-selection questions; no new measurements |
 | 21 Oct 2026 / 22 Oct 2026 | [From a supply event to evidence of delivery](from-supply-event-to-evidence-of-delivery.md) | Interpretation of existing public records; no new measurements |
+
+## Mass-balance interpretation
+
+| Written / published | Entry | Scope |
+| --- | --- | --- |
+| 27 Oct 2026 / 28 Oct 2026 | [When drainage changes the meaning of a mass increase](when-drainage-changes-a-mass-increase.md) | Weighing boundary and entirely invented cases; no new measurements or field verification |
 
 ## Design revision notes
 

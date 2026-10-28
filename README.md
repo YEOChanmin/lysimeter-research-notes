@@ -25,12 +25,13 @@ Conceptual flow based on the device-local supply transition recorded on 19 Octob
 5. [Design decisions](docs/DESIGN_DECISIONS.md): separating valid zero from missing readings and defining the calibration boundary.
 6. [My contributions](docs/MY_CONTRIBUTIONS.md): my role, professor guidance and AI assistance.
 
-> **Documentation edition: 24 October 2026.** This repository contains research notes, documentation templates, an offline worked analysis using six transcribed reported readings, and a separate synthetic teaching example. Operational application code, firmware, full experimental datasets and field photographs are not included. Historical results below are summaries of local records; preparing this edition did not involve new operational tests.
+> **Documentation edition: 28 October 2026.** This repository contains research notes, documentation templates, an offline worked analysis using six transcribed reported readings, and a separate synthetic teaching example. Operational application code, firmware, full experimental datasets and field photographs are not included. Historical results below are summaries of local records; preparing this edition did not involve new operational tests.
 
 ## Recent entries
 
 | Date | Entry | Evidence status |
 | --- | --- | --- |
+| 28 Oct 2026 (published) | [When drainage changes the meaning of a mass increase](journal/when-drainage-changes-a-mass-increase.md) | Method reasoning and invented cases; researcher review pending |
 | 24 Oct 2026 | [What a recovered backup actually proves](journal/2026-10-24-what-a-recovered-backup-proves.md) | Process interpretation; no new backup or restoration run |
 | 24 Oct 2026 | [From a passing review to a traceable release](journal/2026-10-24-from-review-to-traceable-release.md) | Historical component example and illustrative trace; no new release |
 | 20 Oct 2026 | [Bilingual interfaces and chart export](journal/2026-10-20-bilingual-dashboard.md) | Revised candidate; deployment unconfirmed in the records reviewed |
@@ -38,6 +39,10 @@ Conceptual flow based on the device-local supply transition recorded on 19 Octob
 | 16 Oct 2026 | [Keeping the data trail intact](journal/2026-10-16-revision-questions.md) | Historical design questions |
 
 [From a supply event to evidence of delivery](journal/from-supply-event-to-evidence-of-delivery.md), written on 21 October and published on 22 October 2026, explains the different claims supported by reports, field observations, accounted volume and direct measurement. It adds no new measurements.
+
+## Drainage and mass interpretation
+
+[When drainage changes the meaning of a mass increase](journal/when-drainage-changes-a-mass-increase.md) examines the weighed boundary and why the same net mass gain can accompany different input and drainage amounts. Its three numerical cases are entirely invented; it reports no new measurements, firmware application or field verification.
 
 ## Research records and release evidence
 
