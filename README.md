@@ -25,12 +25,13 @@ Conceptual flow based on the device-local supply transition recorded on 19 Octob
 5. [Design decisions](docs/DESIGN_DECISIONS.md): separating valid zero from missing readings and defining the calibration boundary.
 6. [My contributions](docs/MY_CONTRIBUTIONS.md): my role, professor guidance and AI assistance.
 
-> **Documentation edition: 28 October 2026.** This repository contains research notes, documentation templates, an offline worked analysis using six transcribed reported readings, and a separate synthetic teaching example. Operational application code, firmware, full experimental datasets and field photographs are not included. Historical results below are summaries of local records; preparing this edition did not involve new operational tests.
+> **Documentation edition: 3 November 2026.** This repository contains research notes, documentation templates, an offline worked analysis using six transcribed reported readings, and a separate synthetic teaching example. Operational application code, firmware, full experimental datasets and field photographs are not included. Historical results below are summaries of local records; preparing this edition did not involve new operational tests.
 
 ## Recent entries
 
 | Date | Entry | Evidence status |
 | --- | --- | --- |
+| 3 Nov 2026 (published) | [Before calling a mass loss evapotranspiration](journal/before-calling-a-mass-loss-evapotranspiration.md) | Paper methods reading; cited PDF passages checked; researcher interpretation review pending |
 | 28 Oct 2026 (published) | [When drainage changes the meaning of a mass increase](journal/when-drainage-changes-a-mass-increase.md) | Method reasoning and invented cases; researcher review pending |
 | 24 Oct 2026 | [What a recovered backup actually proves](journal/2026-10-24-what-a-recovered-backup-proves.md) | Process interpretation; no new backup or restoration run |
 | 24 Oct 2026 | [From a passing review to a traceable release](journal/2026-10-24-from-review-to-traceable-release.md) | Historical component example and illustrative trace; no new release |
@@ -39,6 +40,10 @@ Conceptual flow based on the device-local supply transition recorded on 19 Octob
 | 16 Oct 2026 | [Keeping the data trail intact](journal/2026-10-16-revision-questions.md) | Historical design questions |
 
 [From a supply event to evidence of delivery](journal/from-supply-event-to-evidence-of-delivery.md), written on 21 October and published on 22 October 2026, explains the different claims supported by reports, field observations, accounted volume and direct measurement. It adds no new measurements.
+
+## Reading a research method
+
+[Before calling a mass loss evapotranspiration](journal/before-calling-a-mass-loss-evapotranspiration.md) is a focused reading of Evett et al. (2025), published here on 3 November 2026. It connects weighing boundaries, event classification and calculation checks with questions for future analysis. Paper claims and proposed interpretation are separated; researcher interpretation review remains pending. It reports no new experimental measurements.
 
 ## Drainage and mass interpretation
 

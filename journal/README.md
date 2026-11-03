@@ -1,12 +1,18 @@
 # Research journal
 
-Entries connect design intentions with field evidence. Dates in the field-entry table refer to the events or records discussed. Interpretation notes list writing and publication dates separately; this index was updated on 28 October 2026.
+Entries connect design intentions with field evidence. Dates in the field-entry table refer to the events or records discussed. Interpretation notes list writing and publication dates separately; this index was updated on 3 November 2026.
 
 | Date | Entry | Reading note |
 | --- | --- | --- |
 | 20 Oct 2026 | [Bilingual interfaces and chart export](2026-10-20-bilingual-dashboard.md) | Reported fixes and independent confirmation are different stages |
 | 19 Oct 2026 | [Moving supply decisions to the device](2026-10-19-field-revision.md) | Field observations, device reports and partial backup results have different scopes |
 | 16 Oct 2026 | [Keeping the data trail intact](2026-10-16-revision-questions.md) | A historical plan does not establish completion |
+
+## Literature and methods readings
+
+| Written / published | Entry | Scope |
+| --- | --- | --- |
+| 3 Nov 2026 / 3 Nov 2026 | [Before calling a mass loss evapotranspiration](before-calling-a-mass-loss-evapotranspiration.md) | Evett et al. (2025) methods reading; cited PDF passages checked; researcher interpretation review pending; no new measurements |
 
 ## Measurement interpretation notes
 
