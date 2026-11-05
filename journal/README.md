@@ -1,6 +1,6 @@
 # Research journal
 
-Entries connect design intentions with field evidence. Dates in the field-entry table refer to the events or records discussed. Interpretation notes list writing and publication dates separately; this index was updated on 3 November 2026.
+Entries connect design intentions with field evidence. Dates in the field-entry table refer to the events or records discussed. Interpretation notes list writing and publication dates separately; this index was reviewed on 5 November 2026. Publication dates below retain the actual dates of the entries.
 
 | Date | Entry | Reading note |
 | --- | --- | --- |
