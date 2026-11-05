@@ -1,13 +1,13 @@
 # Repository Contents
 
-**Documentation guide updated:** 24 October 2026. This is a selected research notebook, not an operational deployment package.
+**Documentation guide updated:** 5 November 2026. This is a selected research notebook, not an operational deployment package.
 
 ## Where to start
 
 | Location | What is included |
 | --- | --- |
 | [Home](../README.md) and [About](../ABOUT.md) | Research purpose, reading guide and project context |
-| [Research journal](../journal/README.md) | Dated field entries, hardware retrospective, design revisions and interpretation notes |
+| [Research journal](../journal/README.md) | Dated field entries, hardware retrospective, design revisions, interpretation notes and paper methods readings |
 | [Methods](../methods/README.md) | Measurement meaning, quality, evidence and limitations |
 | [Revision log](../revisions/README.md) | Historical component-specific revisions and their evidence boundaries |
 | [Examples](#offline-examples) | One selected recorded-reading analysis and one entirely synthetic teaching example |
@@ -19,6 +19,8 @@
 
 | Topic | Public material | Boundary |
 | --- | --- | --- |
+| Literature and methods | [Before calling a mass loss evapotranspiration](../journal/before-calling-a-mass-loss-evapotranspiration.md) | Cited PDF passages checked; proposed interpretation remains for researcher review; no new measurements |
+| Drainage interpretation | [When drainage changes the meaning of a mass increase](../journal/when-drainage-changes-a-mass-increase.md) | Entirely invented numerical cases; researcher review pending; no field validation |
 | Reference roles | [Three-role reference setup](../journal/2026-10-23-three-role-reference-setup.md) | Design revision; field validation is not established by the note |
 | Measurement selection | [Sensor readiness and research data](../journal/2026-10-23-from-sensor-ready-to-research-data.md) | Initialization, receipt, measurement checks and selection are separate claims |
 | Display interpretation | [Cloud and local views](../journal/2026-10-23-cloud-and-local-research-views.md) | Source, time and aggregation; figure uses fictional times |
