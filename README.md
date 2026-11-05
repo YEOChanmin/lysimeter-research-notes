@@ -25,7 +25,7 @@ Conceptual flow based on the device-local supply transition recorded on 19 Octob
 5. [Design decisions](docs/DESIGN_DECISIONS.md): separating valid zero from missing readings and defining the calibration boundary.
 6. [My contributions](docs/MY_CONTRIBUTIONS.md): my role, professor guidance and AI assistance.
 
-> **Documentation edition: 3 November 2026.** This repository contains research notes, documentation templates, an offline worked analysis using six transcribed reported readings, and a separate synthetic teaching example. Operational application code, firmware, full experimental datasets and field photographs are not included. Historical results below are summaries of local records; preparing this edition did not involve new operational tests.
+> **Documentation edition: 5 November 2026.** This repository contains research notes, documentation templates, an offline worked analysis using six transcribed reported readings, and a separate synthetic teaching example. Operational application code, firmware, full experimental datasets and field photographs are not included. Historical results below are summaries of local records; preparing this edition did not involve new operational tests.
 
 ## Recent entries
 
