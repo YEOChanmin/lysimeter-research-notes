@@ -25,12 +25,13 @@ Conceptual flow based on the device-local supply transition recorded on 19 Octob
 5. [Design decisions](docs/DESIGN_DECISIONS.md): separating valid zero from missing readings and defining the calibration boundary.
 6. [My contributions](docs/MY_CONTRIBUTIONS.md): my role, professor guidance and AI assistance.
 
-> **Documentation edition: 5 November 2026.** This repository contains research notes, documentation templates, an offline worked analysis using six transcribed reported readings, and a separate synthetic teaching example. Operational application code, firmware, full experimental datasets and field photographs are not included. Historical results below are summaries of local records; preparing this edition did not involve new operational tests.
+> **Documentation edition: 10 November 2026.** This repository contains research notes, documentation templates, an offline worked analysis using six transcribed reported readings, and synthetic teaching examples. Operational application code, firmware, full experimental datasets and field photographs are not included. Historical results below are summaries of local records; preparing this edition did not involve new operational tests.
 
 ## Recent entries
 
 | Date | Entry | Evidence status |
 | --- | --- | --- |
+| 9–10 Nov 2026 (written) | [Cycle changeover and analysis preparation](journal/README.md#cycle-changeover-and-analysis-preparation) | Five notes on the cycle boundary, method freeze, exclusion ledger, minute coverage and photo provenance |
 | 3 Nov 2026 (published) | [Before calling a mass loss evapotranspiration](journal/before-calling-a-mass-loss-evapotranspiration.md) | Paper methods reading; cited PDF passages checked; researcher interpretation review pending |
 | 28 Oct 2026 (published) | [When drainage changes the meaning of a mass increase](journal/when-drainage-changes-a-mass-increase.md) | Method reasoning and invented cases; researcher review pending |
 | 24 Oct 2026 | [What a recovered backup actually proves](journal/2026-10-24-what-a-recovered-backup-proves.md) | Process interpretation; no new backup or restoration run |

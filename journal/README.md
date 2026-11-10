@@ -1,6 +1,18 @@
 # Research journal
 
-Entries connect design intentions with field evidence. Dates in the field-entry table refer to the events or records discussed. Interpretation notes list writing and publication dates separately; this index was reviewed on 5 November 2026. Publication dates below retain the actual dates of the entries.
+Entries connect design intentions with field evidence. Field entries are dated by the events or records discussed. Other tables indicate writing and publication dates where recorded. This index was reviewed on 10 November 2026.
+
+## Cycle changeover and analysis preparation
+
+| Written | Entry | Scope |
+| --- | --- | --- |
+| 9 Nov 2026 | [Starting a new cycle without losing the data trail](starting-a-new-cycle-without-losing-the-data-trail.md) | Field timeline, analysis exclusion window and fixed Cycle 1 backup copy |
+| 9 Nov 2026 | [Freezing an analysis method before the next dataset](freezing-an-analysis-method-before-the-next-dataset.md) | Versioned area method and conditions for independent evaluation |
+| 9 Nov 2026 | [Keeping a channel in the archive while excluding it from analysis](keeping-a-channel-in-the-archive-while-excluding-it-from-analysis.md) | Data-selection decision and fictional ledger correction |
+| 10 Nov 2026 | [How much data went into that minute?](how-much-data-went-into-that-minute.md) | Fictional example of sample coverage and analysis eligibility |
+| 10 Nov 2026 | [Tracing a research photograph from capture to analysis](tracing-a-research-photograph-from-capture-to-analysis.md) | Fictional example of receipt, capture evidence and plant assignment |
+
+## Field entries
 
 | Date | Entry | Reading note |
 | --- | --- | --- |

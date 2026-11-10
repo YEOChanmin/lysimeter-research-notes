@@ -1,6 +1,6 @@
 # Repository Contents
 
-**Documentation guide updated:** 5 November 2026. This is a selected research notebook, not an operational deployment package.
+**Documentation guide updated:** 10 November 2026. This is a selected research notebook, not an operational deployment package.
 
 ## Where to start
 
@@ -19,6 +19,7 @@
 
 | Topic | Public material | Boundary |
 | --- | --- | --- |
+| Cycle changeover and analysis preparation | [Five linked journal entries](../journal/README.md#cycle-changeover-and-analysis-preparation) | Date-level field record, method and selection decisions, and fictional worked examples |
 | Literature and methods | [Before calling a mass loss evapotranspiration](../journal/before-calling-a-mass-loss-evapotranspiration.md) | Cited PDF passages checked; proposed interpretation remains for researcher review; no new measurements |
 | Drainage interpretation | [When drainage changes the meaning of a mass increase](../journal/when-drainage-changes-a-mass-increase.md) | Entirely invented numerical cases; researcher review pending; no field validation |
 | Reference roles | [Three-role reference setup](../journal/2026-10-23-three-role-reference-setup.md) | Design revision; field validation is not established by the note |
