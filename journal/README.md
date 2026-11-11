@@ -1,11 +1,12 @@
 # Research journal
 
-Entries connect design intentions with field evidence. Field entries are dated by the events or records discussed. Other tables indicate writing and publication dates where recorded. This index was reviewed on 10 November 2026.
+Entries connect design intentions with field evidence. Field entries are dated by the events or records discussed. Other tables indicate writing and publication dates where recorded. This index was reviewed on 11 November 2026.
 
 ## Cycle changeover and analysis preparation
 
 | Written | Entry | Scope |
 | --- | --- | --- |
+| 11 Nov 2026 | [From an archived file to a traceable analysis input](from-an-archived-file-to-a-traceable-analysis-input.md) | File identity, schema and selection provenance with invented CSV examples |
 | 9 Nov 2026 | [Starting a new cycle without losing the data trail](starting-a-new-cycle-without-losing-the-data-trail.md) | Field timeline, analysis exclusion window and fixed Cycle 1 backup copy |
 | 9 Nov 2026 | [Freezing an analysis method before the next dataset](freezing-an-analysis-method-before-the-next-dataset.md) | Versioned area method and conditions for independent evaluation |
 | 9 Nov 2026 | [Keeping a channel in the archive while excluding it from analysis](keeping-a-channel-in-the-archive-while-excluding-it-from-analysis.md) | Data-selection decision and fictional ledger correction |
